@@ -27,6 +27,9 @@ function App() {
 
           <Route path="/blog" element={<Blog />} />
           <Route path="/films" element={<Films />} />
+          <Route path="/films" element={<Films />} />
+          <Route path="/films" element={<Films />} />
+          
           
 
 
